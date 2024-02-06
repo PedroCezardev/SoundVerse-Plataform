@@ -39,8 +39,9 @@ body{
 
 .container .sidebar{
   height: 100vh;
+  width: 23vh;
   background-color: #18181d;
-  padding: 20px 36px;
+  padding: 20px 30px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -56,7 +57,7 @@ body{
 
 .container .sidebar .logo > i {
   font-size: 24px;
-  transition: all a.3s ease;
+  transition: all 0.3s ease;
 }
 
 .container .sidebar a{
@@ -74,7 +75,7 @@ body{
 
 .container .sidebar .menu h5{
   color: #919191;
-  margin-botton: 12px;
+  margin-bottom: 12px;
   text-transform: uppercase;
 }
 
@@ -83,7 +84,7 @@ body{
 }
 
 .container .sidebar .menu ul li {
-  margin-botton: 12px;
+  margin-bottom: 12px;
   display: flex;
   align-items: center;
   gap: 20px;
@@ -107,3 +108,18 @@ body{
   font-size: 13px;
 }
 
+.container .sidebar .playing .top img{
+  width: 36px;
+  height: 36px;
+}
+
+.container .sidebar .playing .bottom{
+  background-color: #25253d;
+  border-radius: 0 0 6px 6px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-size: 12px;
+}
