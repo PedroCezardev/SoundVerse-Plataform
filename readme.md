@@ -10,7 +10,7 @@ poderá ouvir músicas que estão bombando ou, até mesmo, as músicas do seu ag
 # Link
 Acesse o Link do meu projeto, analise meu perfil profissional:
 
-Link do meu site 💻: https://meu-portifolio-lime.vercel.app/
+Link do meu site 💻: https://sound-verse-plataform.vercel.app/
 
 # Screenshot
 Aqui temos a captura de tela do projeto:
